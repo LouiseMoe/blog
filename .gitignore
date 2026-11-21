@@ -1,1 +1,5 @@
 /target
+/build
+.gradle
+.kotlin
+h2.mv.db
